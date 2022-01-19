@@ -1,1 +1,1 @@
-# Sudoku-Solver
+Soduku solving using constract stratisfaction algorithms 
